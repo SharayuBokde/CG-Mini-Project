@@ -1,6 +1,14 @@
 # CG-Mini-Project
 Boat-Racing Game
 
+<h3 align="center">Semester-IV Mini Project</h3>
+<h4>Team</h5>
+<ul>
+  <li>Rutu Gaglani</li>
+  <li>Saurav Tiwari</li>
+  <li>Sharayu Bokde</li>
+</ul>
+
 <p>This Project is an implementation of a racing game which used to be one of our favorites during childhood. This game has been implemented in the language C++ on the complier Turbo C++. The game is made using the inbuilt libraries in C such as dos.h , graphics.h,  etc.</p>
 
 <b>Working:</b>
