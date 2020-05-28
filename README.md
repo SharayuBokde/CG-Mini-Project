@@ -1,7 +1,5 @@
-# CG-Mini-Project
-Boat-Racing Game
-
-<h3 align="center">Semester-IV Mini Project</h3>
+<h1 align="center">Boat-Racing Game</h3>
+<h3 align="center">CG Semester-IV Mini Project</h3>
 <h4>Team</h5>
 <ul>
   <li>Rutu Gaglani</li>
