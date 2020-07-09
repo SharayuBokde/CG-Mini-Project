@@ -14,13 +14,13 @@
 On the right hand side of the screen, we have the distance bar which shows how much distance is left until we reach the destination. We use the mouse to move the boat right and left. The game is over when you reach the destination without clashing with the obstacles. On pressing the key ‘ESC’ you can exit the game. There is a score tab at the right hand top corner of the screen to display the score. </p>
 
 <p>The race starts when you press SPACE or ENTER</p>
-<h3 align="center"><img src="Boat Race/1.png" height=400 width=auto></h3>
-<h3 align="center"><img src="Boat Race/2.png" height=400 width=auto></h3>
+<h3 align="center"><img src="Boat Race/1.png" height=auto width=75%></h3>
+<h3 align="center"><img src="Boat Race/2.png" height=auto width=75%></h3>
 
 <p>If you hit any obstacle the game is OVER.</p>
-<h3 align="center"><img src="Boat Race/3.png" height=400 width=auto></h3>
-<h3 align="center"><img src="Boat Race/4.png" height=400 width=auto></h3>
+<h3 align="center"><img src="Boat Race/3.png" height=auto width=75%></h3>
+<h3 align="center"><img src="Boat Race/4.png" height=auto width=75%></h3>
 
 <p>If you reach the end of the race without hitting any obstacle then you WIN the race.</p>
-<h3 align="center"><img src="Boat Race/5.png" height=400 width=auto></h3>
-<h3 align="center"><img src="Boat Race/6.png" height=400 width=auto></h3>
+<h3 align="center"><img src="Boat Race/5.png" height=auto width=75%></h3>
+<h3 align="center"><img src="Boat Race/6.png" height=auto width=75%></h3>
