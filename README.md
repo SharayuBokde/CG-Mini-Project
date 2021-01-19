@@ -17,11 +17,11 @@ On the right hand side of the screen, we have the distance bar which shows how m
 <br>
 <p>If you reach the end of the race without hitting any obstacle then you WIN the race.</p>
 <p align="center">
-  <img src="Boat Race/CG-MiniProject-Win.gif" height=auto width=100%>
+  <img src="Boat Race/CG-MiniProject-Win.gif" width="500px" height="100%">
 </p>
 <br>
 <p>If you hit any obstacle the game is OVER.</p>
 <p align="center">
-   <img src="Boat Race/CG-MiniProject-Lose.gif" height=auto width=100%>
+   <img src="Boat Race/CG-MiniProject-Lose.gif" width="500px" height="100%">
 </p>
 
